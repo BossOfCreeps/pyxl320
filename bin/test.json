@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"max_angle": 295.2,
+		"min_angle": 20,
+		"set_angle": 0.0,
+		"speed_limit": 50.0,
+		"led": 2
+	},
+	{
+		"id": 1,
+		"max_angle": 295.2,
+		"min_angle": 20,
+		"set_angle": 0.0,
+		"speed_limit": 50.0,
+		"led": 2
+	}
+]
